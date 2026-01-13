@@ -13,6 +13,8 @@ Screenshots
 
 ![image_alt](https://github.com/Charvi-M-J/Production-Ready-Azure-Data-Engineering-Project/blob/master/screenshot/Screenshot%202026-01-13%20181255.png?raw=true)
 
+![image alt](https://github.com/Charvi-M-J/Production-Ready-Azure-Data-Engineering-Project/blob/master/screenshot/Screenshot%202026-01-13%20182145.png?raw=true)
+
 🧰 Technologies Used
 🔹Microsoft Fabric
 🔹Fabric Lakehouse
