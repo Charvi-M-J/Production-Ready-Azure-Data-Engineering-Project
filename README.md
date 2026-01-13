@@ -7,6 +7,7 @@ Gold). The final curated datasets are modeled using Dimensional Data Modeling te
 data engineering challenges such as incremental data ingestion, data quality enforcement, schema evolution, slowly changing dimensions (SCDs), and enterprise-level data governance using Unity Catalog.
 
 Screenshots
+![image alt](https://github.com/Charvi-M-J/Production-Ready-Azure-Data-Engineering-Project/blob/master/screenshot/Screenshot%202026-01-13%20181038.png?raw=true)
 ![image alt](https://github.com/Charvi-M-J/Production-Ready-Azure-Data-Engineering-Project/blob/master/screenshot/Screenshot%202026-01-13%20180332.png?raw=true)
 🧰 Technologies Used
 🔹Microsoft Fabric
