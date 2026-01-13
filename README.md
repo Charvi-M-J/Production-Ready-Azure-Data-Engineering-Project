@@ -5,6 +5,8 @@ governance, and analytics using best practices such as Medallion Architecture, D
 The pipeline ingests raw data from source systems, processes it through multiple transformation layers using Apache Spark (PySpark), and stores it in Delta Lake following the Medallion Architecture (Bronze, Silver,
 Gold). The final curated datasets are modeled using Dimensional Data Modeling techniques and are optimized for analytical workloads and business intelligence consumption.This project closely mirrors real-world 
 data engineering challenges such as incremental data ingestion, data quality enforcement, schema evolution, slowly changing dimensions (SCDs), and enterprise-level data governance using Unity Catalog.
+
+Screenshots
 ![image alt](https://github.com/Charvi-M-J/Production-Ready-Azure-Data-Engineering-Project/blob/master/screenshot/Screenshot%202026-01-13%20180332.png?raw=true)
 🧰 Technologies Used
 🔹Microsoft Fabric
